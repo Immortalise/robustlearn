@@ -30,6 +30,8 @@ For other datasets:
 
 After downloading these datasets, move them to ./data. 
 
+Note: You need to pre-process the Tiny-ImageNet val dataset. Please refer to this [Chinese blog](https://blog.csdn.net/u011281708/article/details/107977802) for pre-processing.
+
 The images in Tiny-ImageNet datasets are 64x64 with 200 classes.
 
 ## Robust Critical Fine-Tuning
